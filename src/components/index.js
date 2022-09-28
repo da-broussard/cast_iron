@@ -1,0 +1,12 @@
+export {default as Birmingham} from "./birmingham"
+export {default as Homepage} from "./homepage"
+export {default as Title} from "./title"
+
+export {default as NavigationBar} from "./navbar"
+export {default as Footer} from "./footer"
+export {default as Griswold} from "./griswold"
+export {default as Lodge} from "./lodge"
+export {default as Foundry} from "./c_foundry"
+export {default as Wagner} from "./wagner"
+export {default as Contact} from "./contact"
+export {default as About} from "./about"

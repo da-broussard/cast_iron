@@ -1,0 +1,69 @@
+.main_container{
+    display: flex;
+    justify-content: center;
+    background-color: #9A2006;
+}
+
+.carousel_container{
+    margin-top: 35px;;
+    width:50%;
+    height:700px;
+    flex-grow: 1;
+    
+    
+}
+
+.brand_names{
+    display: flex;
+    width:50%;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFFEE9;
+   
+}
+.brand_container{
+    background-color:#FFFEE9 ;
+    height: 50%;
+    
+    margin-top: 0%;
+    padding:50px;
+
+}
+
+img{
+     max-height: 545px; 
+} 
+.homepage_bottom{
+    display: flex;
+    flex-direction: row;
+    background-color: red;
+    flex-wrap: wrap;
+    
+
+}
+.homepage_top > div{
+    border:solid 4px black;
+}
+.homepage_top{
+    display: flex;
+    flex-direction: row;
+    background-color: red;
+    flex-wrap: wrap;
+
+}
+
+.homepage_mid{
+    display: flex;
+    flex-direction: row;
+    background-color: red;
+    flex-wrap: wrap;
+
+}
+
+.homepage_b1{
+    flex-grow: 1;
+}
+.homepage_b2{
+    flex-grow: 1;
+}
+
